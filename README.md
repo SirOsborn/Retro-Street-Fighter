@@ -31,7 +31,7 @@ https://github.com/SirOsborn/Retro-Street-Fighter.git
 ## 4. If you just want to play our game:
 1. download our zip file:
    ```
-   
+   https://drive.google.com/file/d/1P8vmogsozJJG2HZrrqb9SemSVTlYNJIL/view?usp=sharing
    ```
 3. extract the folder
 4. run the executable file "main.exe" if your pc says it might contain viruses, click ignore and run anyway. :3
