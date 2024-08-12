@@ -14,7 +14,7 @@ This project is a Clone of arcade fighter game genre like King of Fighters, Stre
 URL: [https://www.pygame.org/news ](https://www.pygame.org/news)
 
 
-## 3. Installing:
+## 3. If you want test our code and play as dev:
 
 1. Clone the git repo
 
@@ -28,7 +28,14 @@ https://github.com/SirOsborn/Retro-Street-Fighter.git
 
 4. Open main.py and run
 
-5. Play the game
+## 4. If you just want to play our game:
+1. download our zip file:
+   ```
+   
+   ```
+3. extract the folder
+4. run the executable file "main.exe" if your pc says it might contain viruses, click ignore and run anyway. :3
+5. Enjoy the game :>
 
 
 ## 5. Screen Recording:
